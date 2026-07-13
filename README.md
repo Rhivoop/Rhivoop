@@ -45,10 +45,10 @@ Saya adalah mahasiswa Informatika yang memiliki ketertarikan mendalam pada penge
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rhivoop&show_icons=true&theme=radium)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhivoop&layout=compact&theme=radium)
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rhivoop&show_icons=true&theme=radium" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhivoop&layout=compact&theme=radium" alt="Top Languages" width="48%" />
+</p>
 
 ### 📫 How to reach me
 * 📧 Email: [mrhivoaprianto@gmail.com]
