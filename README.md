@@ -41,12 +41,10 @@ Saya adalah mahasiswa Informatika yang memiliki ketertarikan mendalam pada penge
 
 ---
 
-<!-- DISAAT SERVER GITHUB STATS NORMAL LAGI, HAPUS TANDA KOMENTAR INI (<!-- DAN -->) UNTUK MEMUNCULKAN STATS
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rhivoop&show_icons=true&theme=radium)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhivoop&layout=compact&theme=radium)
+<div align="center">
+  <img src="https://github-readme-stats-ten-alpha-79.vercel.app/api?username=Rhivoop&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ten-alpha-79.vercel.app/api/top-langs/?username=Rhivoop&theme=dracula&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+</div>
 
 
 ### 📫 How to reach me
