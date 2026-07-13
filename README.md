@@ -34,7 +34,14 @@ Saya adalah mahasiswa Informatika yang memiliki ketertarikan mendalam pada penge
 </p>
 
 **Artificial Intelligence & Data**
-<!-- DISAAT SERVER GITHUB STATS NORMAL LAGI, HAPUS TANDA PANAH KOMENTAR INI
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+</p>
+
+---
+
+<!-- DISAAT SERVER GITHUB STATS NORMAL LAGI, HAPUS TANDA KOMENTAR INI (<!-- DAN -->) UNTUK MEMUNCULKAN STATS
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rhivoop&show_icons=true&theme=radium)
@@ -42,17 +49,6 @@ Saya adalah mahasiswa Informatika yang memiliki ketertarikan mendalam pada penge
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhivoop&layout=compact&theme=radium)
 -->
 
----
-
-### 📈 GitHub Stats
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rhivoop&show_icons=true&theme=radium" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhivoop&layout=compact&theme=radium" alt="Top Languages" width="48%" />
-</p>
-
 ### 📫 How to reach me
-* 📧 Email: [mrhivoaprianto@gmail.com]
-* 💼 LinkedIn: [www.linkedin.com/in/m-rhivo-aprianto-3461a3421]
+* 📧 Email: [mrhivoaprianto@gmail.com](mailto:mrhivoaprianto@gmail.com)
+* 💼 LinkedIn: [M Rhivo Aprianto](https://www.linkedin.com/in/m-rhivo-aprianto-3461a3421)
