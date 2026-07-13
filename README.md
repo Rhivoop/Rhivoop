@@ -52,4 +52,4 @@ Saya adalah mahasiswa Informatika yang memiliki ketertarikan mendalam pada penge
 
 ### 📫 How to reach me
 * 📧 Email: [mrhivoaprianto@gmail.com]
-* 💼 LinkedIn: [Link LinkedIn Kamu]
+* 💼 LinkedIn: [www.linkedin.com/in/m-rhivo-aprianto-3461a3421]
