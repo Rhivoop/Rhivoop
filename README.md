@@ -34,10 +34,13 @@ Saya adalah mahasiswa Informatika yang memiliki ketertarikan mendalam pada penge
 </p>
 
 **Artificial Intelligence & Data**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-</p>
+<!-- DISAAT SERVER GITHUB STATS NORMAL LAGI, HAPUS TANDA PANAH KOMENTAR INI
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rhivoop&show_icons=true&theme=radium)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhivoop&layout=compact&theme=radium)
+-->
 
 ---
 
