@@ -1,8 +1,8 @@
 # Hi there, I'm Muhammad Rhivo Aprianto 👋
 
-### 👨‍💻 Informatics Student | Web Developer | Cybersecurity Enthusiast
+### 👨‍💻 Informatics Student | Web Developer | Cybersecurity & AI Enthusiast
 
-Saya adalah mahasiswa Informatika yang memiliki ketertarikan mendalam pada pengembangan *web* dinamis dan keamanan siber. Saya antusias dalam membangun antarmuka pengguna yang intuitif sekaligus memastikan keandalan sistem di baliknya melalui analisis kerentanan jaringan.
+Saya adalah mahasiswa Informatika yang memiliki ketertarikan mendalam pada pengembangan *web* dinamis, keamanan siber, dan kecerdasan buatan (AI). Saya antusias dalam membangun antarmuka pengguna yang intuitif, memastikan keandalan sistem melalui analisis kerentanan, serta mengeksplorasi potensi dan implementasi teknologi AI.
 
 ---
 
@@ -10,8 +10,9 @@ Saya adalah mahasiswa Informatika yang memiliki ketertarikan mendalam pada penge
 * 🎓 Saat ini sedang menempuh pendidikan S1 Informatika.
 * 💻 Berpengalaman dalam merancang dan mengembangkan UI/UX serta *front-end* untuk portal pelaporan insiden keamanan (CSIRT).
 * 🛡️ Memiliki pengalaman praktik langsung di instansi pemerintahan (Bidang Persandian) yang berfokus pada operasional keamanan informasi dan kriptografi.
-* 🤝 Tertarik berkolaborasi pada proyek *open-source* yang berkaitan dengan *web security*, *penetration testing*, atau inovasi forum keamanan.
-* 💬 Tanya saya tentang: **PHP, MySQL, Konfigurasi Front-End, atau Analisis Jaringan Dasar.**
+* 🤖 Sedang aktif mempelajari dan mengeksplorasi perkembangan teknologi *Artificial Intelligence* (AI).
+* 🤝 Tertarik berkolaborasi pada proyek *open-source* yang berkaitan dengan *web security*, *penetration testing*, atau inovasi AI.
+* 💬 Tanya saya tentang: **PHP, MySQL, Analisis Jaringan Dasar, atau Tren AI saat ini.**
 
 ---
 
@@ -32,6 +33,12 @@ Saya adalah mahasiswa Informatika yang memiliki ketertarikan mendalam pada penge
   <img src="https://img.shields.io/badge/Penetration_Testing-D82C20?style=for-the-badge&logo=target&logoColor=white" alt="Pentesting" />
 </p>
 
+**Artificial Intelligence & Data**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+</p>
+
 ---
 
 ### 📈 GitHub Stats
@@ -45,6 +52,4 @@ Saya adalah mahasiswa Informatika yang memiliki ketertarikan mendalam pada penge
 
 ### 📫 How to reach me
 * 📧 Email: [mrhivoaprianto@gmail.com]
-* 💼 LinkedIn: []
-
-<!-- Hidden comments: Tambahkan project highlights di bawah ini saat repositori sudah siap di-pin! -->
+* 💼 LinkedIn: [Link LinkedIn Kamu]
