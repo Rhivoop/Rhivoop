@@ -44,8 +44,8 @@ Saya adalah mahasiswa Informatika yang memiliki ketertarikan mendalam pada penge
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rhivoop&show_icons=true&theme=radium" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhivooop&layout=compact&theme=radium" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rhivop&show_icons=true&theme=radium" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhivoop&layout=compact&theme=radium" alt="Top Languages" width="48%" />
 </p>
 
 ---
