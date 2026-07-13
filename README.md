@@ -44,7 +44,7 @@ Saya adalah mahasiswa Informatika yang memiliki ketertarikan mendalam pada penge
 ---
 
 ### 📫 How to reach me
-* 📧 Email: [mrhivoapriantno@gmail.com]
+* 📧 Email: [mrhivoaprianto@gmail.com]
 * 💼 LinkedIn: []
 
 <!-- Hidden comments: Tambahkan project highlights di bawah ini saat repositori sudah siap di-pin! -->
